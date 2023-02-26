@@ -1,0 +1,6 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="pt-svgsprite -times-o" style="" width="32" height="32">
+    <defs>
+        <symbol viewBox="0 0 32 32" id="times-o" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="4" d="M1.5 1.5l29 29M1.5 30.5l29-29"></path></symbol>
+    </defs>
+    <use xlink:href="#times-o" fill="#FFFFFF"></use>
+</svg>

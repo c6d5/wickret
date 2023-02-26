@@ -1,0 +1,6 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="pt-svgsprite -play" width="28" height="28">
+    <defs>
+        <symbol viewBox="0 0 16 16" id="play" xmlns="http://www.w3.org/2000/svg"><path d="M4 2.06v11.19l8.58-5.6L4 2.05zm-1-.12a.93.93 0 011.45-.79l8.76 5.72a.93.93 0 010 1.57l-8.76 5.71A.93.93 0 013 13.37V1.94z"></path></symbol>
+    </defs>
+    <use xlink:href="#play"></use>
+</svg>

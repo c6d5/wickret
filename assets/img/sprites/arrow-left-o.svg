@@ -1,0 +1,8 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="pt-svgsprite -arrow-left-o" width="32" height="32">
+    <defs>
+        <symbol viewBox="0 0 32 32" id="arrow-left-o" xmlns="http://www.w3.org/2000/svg">
+            <path d="M2 16L14 5m0 22L2 16m28 0H2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"></path>
+        </symbol>
+    </defs>
+    <use xlink:href="#arrow-left-o"></use>
+</svg>

@@ -1,0 +1,524 @@
+Uri: https://ct.capterra.com/capterra_tracker.gif?vid=2193470&vkey=bdcff02f5ffb35ee117cddf4004d79a1
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\capterra_tracker.gif
+Content Type: image/gif
+
+Uri: https://img.youtube.com/vi/iqt-_G7pt1Y/maxresdefault.jpg
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\vi\iqt-_G7pt1Y\maxresdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-160773905-2
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.sendpotion.com/
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\index.htm
+Content Type: text/html
+
+Uri: https://www.sendpotion.com/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/css/noscript.css?v=0.2.19
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\css\noscript.css
+Content Type: text/css
+
+Uri: https://www.sendpotion.com/assets/fonts/montserrat/montserrat-500.woff
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\fonts\montserrat\montserrat-500.woff
+Content Type: application/font-woff
+
+Uri: https://www.sendpotion.com/assets/fonts/montserrat/montserrat-500.woff2
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\fonts\montserrat\montserrat-500.woff2
+Content Type: binary/octet-stream
+
+Uri: https://www.sendpotion.com/assets/fonts/montserrat/montserrat-600.woff
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\fonts\montserrat\montserrat-600.woff
+Content Type: application/font-woff
+
+Uri: https://www.sendpotion.com/assets/fonts/montserrat/montserrat-600.woff2
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\fonts\montserrat\montserrat-600.woff2
+Content Type: binary/octet-stream
+
+Uri: https://www.sendpotion.com/assets/fonts/montserrat/montserrat.woff
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\fonts\montserrat\montserrat.woff
+Content Type: application/font-woff
+
+Uri: https://www.sendpotion.com/assets/fonts/montserrat/montserrat.woff2
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\fonts\montserrat\montserrat.woff2
+Content Type: binary/octet-stream
+
+Uri: https://www.sendpotion.com/assets/img/home/advantage/1.svg
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\home\advantage\1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.sendpotion.com/assets/img/home/advantage/2.svg
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\home\advantage\2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.sendpotion.com/assets/img/home/advantage/3.svg
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\home\advantage\3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.sendpotion.com/assets/img/home/advantage/record.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\home\advantage\record.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/home/advantage/record@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\home\advantage\record@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/home/overview/1.jpg
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\home\overview\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sendpotion.com/assets/img/home/overview/1@2x.jpg
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\home\overview\1@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sendpotion.com/assets/img/home/overview/2.jpg
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\home\overview\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sendpotion.com/assets/img/home/overview/2@2x.jpg
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\home\overview\2@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sendpotion.com/assets/img/home/overview/3.jpg
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\home\overview\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sendpotion.com/assets/img/home/overview/3@2x.jpg
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\home\overview\3@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sendpotion.com/assets/img/home/overview/4.jpg?2
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\home\overview\4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sendpotion.com/assets/img/home/overview/5.jpg?2
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\home\overview\5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sendpotion.com/assets/img/home/overview/6.jpg?2
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\home\overview\6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/1.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\1.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/10.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\10.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/10@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\10@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/11.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\11.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/11@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\11@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/12.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\12.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/12@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\12@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/13.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\13.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/13@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\13@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/14.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\14.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/14@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\14@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/15.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\15.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/15@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\15@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/16.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\16.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/16@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\16@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/17.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\17.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/17@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\17@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/18.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\18.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/18@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\18@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/1@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\1@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/2.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\2.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/2@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\2@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/3.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\3.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/3@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\3@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/4.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\4.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/4@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\4@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/5.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\5.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/5@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\5@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/6.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\6.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/6@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\6@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/7.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\7.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/7@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\7@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/8.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\8.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/8@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\8@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/9.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\9.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/card/9@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\card\9@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/description/1.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\description\1.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/description/1@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\description\1@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/description/2.svg
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\description\2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.sendpotion.com/assets/img/integrations/description/3.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\description\3.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/description/3@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\description\3@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/description/4.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\description\4.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/description/4@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\description\4@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/description/5.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\description\5.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/description/5@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\description\5@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/description/6.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\description\6.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/description/6@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\description\6@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/description/7.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\description\7.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/description/7@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\description\7@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/description/8.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\description\8.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/integrations/description/8@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\integrations\description\8@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/logo/icon.svg
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\logo\icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.sendpotion.com/assets/img/partner/adobe.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\adobe.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/adobe@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\adobe@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/appsflyer.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\appsflyer.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/appsflyer@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\appsflyer@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/captivateiq.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\captivateiq.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/captivateiq@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\captivateiq@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/collective.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\collective.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/collective@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\collective@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/drift.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\drift.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/drift@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\drift@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/intercom.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\intercom.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/intercom@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\intercom@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/jira.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\jira.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/jira@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\jira@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/mailchimp.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\mailchimp.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/mailchimp@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\mailchimp@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/maintainx.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\maintainx.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/maintainx@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\maintainx@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/opensense.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\opensense.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/opensense@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\opensense@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/orum.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\orum.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/orum@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\orum@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/pandadoc.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\pandadoc.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/pandadoc@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\pandadoc@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/salesforce.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\salesforce.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/salesforce@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\salesforce@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/sap.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\sap.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/sap@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\sap@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/youtube.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\youtube.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/youtube@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\youtube@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/zendesk.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\zendesk.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/img/partner/zendesk@2x.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\img\partner\zendesk@2x.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/assets/js/bundle.js?v=0.2.19
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\js\bundle.js
+Content Type: application/javascript
+
+Uri: https://www.sendpotion.com/assets/video/home/advantage/1.mp4?5
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\video\home\advantage\1.mp4
+Content Type: video/mp4
+
+Uri: https://www.sendpotion.com/assets/video/home/advantage/3.mp4?5
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\video\home\advantage\3.mp4
+Content Type: video/mp4
+
+Uri: https://www.sendpotion.com/assets/video/home/definition/1.mp4?5
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\video\home\definition\1.mp4
+Content Type: video/mp4
+
+Uri: https://www.sendpotion.com/assets/video/home/definition/1.webm?5
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\video\home\definition\1.webm
+Content Type: video/webm
+
+Uri: https://www.sendpotion.com/assets/video/home/explore/1.mp4?5
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\video\home\explore\1.mp4
+Content Type: video/mp4
+
+Uri: https://www.sendpotion.com/assets/video/home/feature/1.mp4?3
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\video\home\feature\1.mp4
+Content Type: video/mp4
+
+Uri: https://www.sendpotion.com/assets/video/home/feature/2.mp4
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\video\home\feature\2.mp4
+Content Type: video/mp4
+
+Uri: https://www.sendpotion.com/assets/video/home/feature/3.mp4?2
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\video\home\feature\3.mp4
+Content Type: video/mp4
+
+Uri: https://www.sendpotion.com/assets/video/home/hero/1.mp4?6
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\video\home\hero\1.mp4
+Content Type: video/mp4
+
+Uri: https://www.sendpotion.com/assets/video/home/pricing/1.mp4?2
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\video\home\pricing\1.mp4
+Content Type: video/mp4
+
+Uri: https://www.sendpotion.com/assets/video/home/pricing/1.mp4?5
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\video\home\pricing\1-1.mp4
+Content Type: video/mp4
+
+Uri: https://www.sendpotion.com/assets/video/outro/1.mp4?5
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\assets\video\outro\1.mp4
+Content Type: video/mp4
+
+Uri: https://www.sendpotion.com/demo/
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\demo\index.htm
+Content Type: text/html
+
+Uri: https://www.sendpotion.com/faq/
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\faq\index.htm
+Content Type: text/html
+
+Uri: https://www.sendpotion.com/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.sendpotion.com/integrations/
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\integrations\index.htm
+Content Type: text/html
+
+Uri: https://www.sendpotion.com/privacy/
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\privacy\index.htm
+Content Type: text/html
+
+Uri: https://www.sendpotion.com/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://www.sendpotion.com/site.webmanifest
+File Name: C:\Downloaded Web Sites\www.sendpotion.com\site.webmanifest
+Content Type: binary/octet-stream
+
